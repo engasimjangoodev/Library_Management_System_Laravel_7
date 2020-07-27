@@ -2,75 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8075a71-ac6b-4c12-b47f-ac638ee67096" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Book.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Books_Status.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Categorys.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/AjaxUploadController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/BookController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Book_IssueController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/CategoryController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/MemberController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/ProductController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Requests/StoreBook.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Image.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Members.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Publishers.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Staffs.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Suppliers.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/migrations/2020_04_26_193051_create_images_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Books/1377502545.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Books/book1115518392.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Books/book1533466598.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Books/book1580968527.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Books/book1955714689.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Books/book441467630.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Books/book441671491.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Books/book475953991.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Books/book818420229.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Books/book888652858.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Books/book952495495.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/Members/1377502545.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/custom_style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/1362695100.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/1491609986.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/1865436468.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/1889992599.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/218758002.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/233700181.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/250976851.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/308222391.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/mix-manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/sass/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/Inc/footer.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/Inc/header_tags.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/Inc/sidebar.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/Inc/top_nav.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/add_category.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/ajax_upload.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/book.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/book_add_form.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/book_issue_list.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/category_list.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/image.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/issue_book_form.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/template.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/member_add.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/members_list.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/product.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Library_Management_System_Laravel_7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Library_Management_System_Laravel_7.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/help.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ImageController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,7 +136,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pizzaness_online" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -271,6 +203,10 @@
       <workItem from="1587824319120" duration="11276000" />
       <workItem from="1587922649284" duration="22859000" />
       <workItem from="1588017329331" duration="34560000" />
+      <workItem from="1595372002769" duration="234000" />
+      <workItem from="1595534397955" duration="3394000" />
+      <workItem from="1595578565889" duration="618000" />
+      <workItem from="1595587397276" duration="19000" />
     </task>
     <servers />
   </component>
@@ -281,10 +217,6 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="272" y="22" key="#Composer" timestamp="1586781028376">
-      <screen x="0" y="0" width="1360" height="728" />
-    </state>
-    <state x="272" y="22" key="#Composer/0.0.1360.728@0.0.1360.728" timestamp="1586781028376" />
     <state x="272" y="22" key="#Notifications" timestamp="1586955086304">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
@@ -301,14 +233,11 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="410" y="119" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1360.728@0.0.1360.728" timestamp="1587232499902" />
-    <state x="331" y="62" key="#dev" timestamp="1586814070378">
-      <screen x="0" y="0" width="1360" height="728" />
+    <state x="462" y="119" key="FileChooserDialogImpl" timestamp="1595587414133">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="331" y="62" key="#dev/0.0.1360.728@0.0.1360.728" timestamp="1586814070378" />
-    <state x="460" y="119" key="FileChooserDialogImpl" timestamp="1587923434978">
-      <screen x="0" y="0" width="1360" height="728" />
-    </state>
-    <state x="460" y="119" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1587923434978" />
+    <state x="460" y="119" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1595578579546" />
+    <state x="462" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1595587414133" />
     <state width="1317" height="179" key="GridCell.Tab.0.bottom" timestamp="1587952213780">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
@@ -333,10 +262,11 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="92" y="92" width="1176" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1360.728@0.0.1360.728" timestamp="1587931643406" />
-    <state x="377" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1587922750909">
-      <screen x="0" y="0" width="1360" height="728" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1595587397079">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="377" y="188" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1587922750909" />
+    <state x="377" y="188" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1595578565435" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1595587397079" />
     <state x="326" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587233689104">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
@@ -349,10 +279,6 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="376" y="96" width="737" height="606" key="find.popup/0.0.1360.728@0.0.1360.728" timestamp="1588100244111" />
-    <state x="397" y="172" key="jetbrains.nodejs.interpreters-dialog" timestamp="1586814059313">
-      <screen x="0" y="0" width="1360" height="728" />
-    </state>
-    <state x="397" y="172" key="jetbrains.nodejs.interpreters-dialog/0.0.1360.728@0.0.1360.728" timestamp="1586814059313" />
     <state x="321" y="90" width="700" height="530" key="recent.locations.popup" timestamp="1587407353364">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
